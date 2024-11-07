@@ -12,7 +12,7 @@ Activate the environment
     $ . .venv/bin/activate
 Within the activated environment, use the following command to install Flask:
 
-    $ pip install Flask
+    $ pip install -r requirements.txt
 
 ## Installation
 
