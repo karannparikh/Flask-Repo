@@ -1,5 +1,4 @@
-# Flask-Repo
-# Project Title - A minimal Flask application.
+# A minimal Flask application.
 
 ## Setup and Installation
 Create an environment
